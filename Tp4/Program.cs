@@ -16,7 +16,7 @@ namespace Tp4
         {
             int opcionMenu;
             bool salir = false;
-
+//hola
             Console.WriteLine("Bienvenido, ingrese una opcion");
             Console.WriteLine("Ingrese la opcion que desea elegir:\n" +
                 "0. Salir del sistema. \n" +
