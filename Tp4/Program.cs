@@ -8,7 +8,7 @@ using System.Xml.Linq;
 using System.IO;
 using System.Xml.Serialization;
 
-namespace Tp4
+namespace TSDS-TP4-ComisiónA-ReinosoOctavio-PeraltaSofia-MartinezCandela-CornejoLucas
 {
     internal class Program
     {
