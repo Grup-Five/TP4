@@ -16,17 +16,17 @@ Este proyecto es una aplicación de consola en C# que permite gestionar vuelos y
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Grup-Five/TSDS-TP4-ComisionA-ReinosoOctavio-PeraltaSofia-MartinezCandela-CornejoLucas.git
-2.Abre el proyecto en tu entorno de desarrollo (como Visual Studio).
-3.Compila y ejecuta el proyecto.
-Uso
-1.Al iniciar la aplicación, se mostrará un menú de opciones.
-2.Ingresa el número de la opción que deseas ejecutar y sigue las instrucciones en pantalla.
-3.Los datos de vuelos se guardarán automáticamente en un archivo XML al cerrar el programa y se cargarán al iniciar.
-Tecnologías Utilizadas
+2. Abre el proyecto en tu entorno de desarrollo (como Visual Studio).
+3. Compila y ejecuta el proyecto.
+## Uso
+1. Al iniciar la aplicación, se mostrará un menú de opciones.
+2. Ingresa el número de la opción que deseas ejecutar y sigue las instrucciones en pantalla.
+3. Los datos de vuelos se guardarán automáticamente en un archivo XML al cerrar el programa y se cargarán al iniciar.
+## Tecnologías Utilizadas
 C#
 .NET
 XML para almacenamiento de datos
-Estructura del Código
+## Estructura del Código
 Program.cs: Define el flujo principal de la aplicación y el menú interactivo.
 Vuelo.cs: Clase que representa un vuelo, incluyendo propiedades como código, fecha, tripulación y capacidad.
 Aerolinea.cs: Clase que define la aerolínea, con propiedades como razón social, teléfono y domicilio.
