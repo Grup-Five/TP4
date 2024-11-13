@@ -27,8 +27,8 @@ C#
 .NET
 XML para almacenamiento de datos
 ## Estructura del Código
-Program.cs: Define el flujo principal de la aplicación y el menú interactivo.
-Vuelo.cs: Clase que representa un vuelo, incluyendo propiedades como código, fecha, tripulación y capacidad.
-Aerolinea.cs: Clase que define la aerolínea, con propiedades como razón social, teléfono y domicilio.
-GestionVuelo.cs: Clase donde se podrían implementar métodos de gestión de vuelos (actualmente en desarrollo).
+. Program.cs: Define el flujo principal de la aplicación y el menú interactivo.
+. Vuelo.cs: Clase que representa un vuelo, incluyendo propiedades como código, fecha, tripulación y capacidad.
+. Aerolinea.cs: Clase que define la aerolínea, con propiedades como razón social, teléfono y domicilio.
+. GestionVuelo.cs: Clase donde se podrían implementar métodos de gestión de vuelos (actualmente en desarrollo).
 
