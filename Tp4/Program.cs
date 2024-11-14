@@ -14,6 +14,9 @@ namespace TSDS-TP4-ComisiónA-ReinosoOctavio-PeraltaSofia-MartinezCandela-Cornej
     {
         static void Main(string[] args)
         {
+            GestorVuelos gestorVuelos = new GestorVuelos();
+            string filePath = "vuelos.xml";
+            gestorVuelos.CargarDatosXML(filePath);
             int opcionMenu;
             bool salir = false;
 //hola
