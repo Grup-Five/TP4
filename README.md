@@ -33,4 +33,4 @@ XML para almacenamiento de datos
   
 - Aerolinea.cs: Clase que define la aerolínea, con propiedades como razón social, teléfono y domicilio.
 
-- GestionVuelo.cs: Clase donde se podrían implementar métodos de gestión de vuelos (actualmente en desarrollo).
+
